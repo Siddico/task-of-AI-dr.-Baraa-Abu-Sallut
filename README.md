@@ -1,1 +1,3 @@
-# task-of-AI-dr.-Baraa-Abu-Sallut
+# votting task
+# loop task
+# bonus task
