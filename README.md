@@ -1,3 +1,3 @@
-# votting task
-# loop task
-# bonus task
+### votting task
+### loop task
+#### bonus task
